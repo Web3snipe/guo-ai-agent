@@ -1,0 +1,18 @@
+agent:
+  name: Guo
+  model: ollama
+  model_config:
+    engine: nous-hermes2-mixtral:latest
+    temperature: 0.7
+    max_tokens: 280
+
+twitter:
+  auto_post_interval: 4h
+  topics: 
+    - Web3
+    - digital gnosis
+    - techno-mysticism
+    - meme mutation
+    - consciousness
+    - computational cosmogenesis
+    - synthetic religion
